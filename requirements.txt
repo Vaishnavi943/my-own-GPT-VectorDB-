@@ -1,12 +1,8 @@
 fastapi
 uvicorn
 numpy
-scikit-learn
-hnswlib
 pydantic
 requests
 
 
-# Embeddings / Ollama
-ollama
 
